@@ -14,7 +14,7 @@ Used for plugin or theme development for WordPress
 - Run initial wordpress installation using 'wordpress' for names and 'secret' for passwords (these values can be changed in ```docker-compose.yml```)
 - To stop running on localhost, run ```docker-compose down```
 - Run ```docker-compose -d --build``` any time to start it again-- your changes within wp should persist
-
+- Tip: add ```define('FS_METHOD','direct');``` to ```wordpress/wp-config.php``` to avoid issues with FTP when installing test plugins
 
 ### Credit
 
