@@ -1,0 +1,12 @@
+.wordpress/wp-content/plugins/holding-page/.git
+.wordpress/wp-content/plugins/holding-page/.vscode
+.wordpress/wp-content/plugins/holding-page/node_modules
+.wordpress/wp-content/plugins/holding-page/.editorconfig
+.wordpress/wp-content/plugins/holding-page/.eslintignore
+.wordpress/wp-content/plugins/holding-page/.eslintrc.json
+.wordpress/wp-content/plugins/holding-page/.gitignore
+.wordpress/wp-content/plugins/holding-page/lerna.json
+.wordpress/wp-content/plugins/holding-page/package.json
+.wordpress/wp-content/plugins/holding-page/package-lock.json
+.wordpress/wp-content/plugins/holding-page/README.md
+.wordpress/wp-content/plugins/holding-page/webpack.config.js
